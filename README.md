@@ -1,6 +1,6 @@
 # PSA-Design
-PSA-Design-Liu
-PSA Primer Design Python Instruction
+DAMP-Design-Liu
+DAMP Primer Design Python Instruction
 
 1. The Numpy package and CSV package are indispensable to run the whole program.
 2. Almost all the parameters can be setup in the parameters.py.
