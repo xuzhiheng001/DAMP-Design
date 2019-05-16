@@ -10,7 +10,7 @@ import Comple
 ##name = input("What is data file name? ")
 ##
 ##f = open(name+".txt", 'r')
-f=open ("PSASe.txt",'r')
+f=open ("DAMPSe.txt",'r')
 Lcontent = f.read()
 ##Lcontent=list(content)
 GCnumber=(Lcontent. count('G')+Lcontent. count('C'))/ len(Lcontent)
