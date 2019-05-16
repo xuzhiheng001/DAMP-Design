@@ -1,4 +1,4 @@
-# PSA-Design
+# DAMP-Design
 DAMP-Design-Liu
 DAMP Primer Design Python Instruction
 
