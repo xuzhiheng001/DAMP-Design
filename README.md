@@ -25,8 +25,6 @@ The table for the ΔH, ΔS and ΔG is shown as below.
 
 7. The primer recognition sites are selected as the defined ranges of Tm, size and distance according the GC content of the target sequence, as shown below.
 
-Feel free to contact us if you have any question. We are glad to answer your questions and make the program better. 
-
 References:
 Hilbers,C.W., Blommers,M.J.J., Haasnoot,C.A.G., van der Marel, G.A. and van Boom, J. H. (1987) Structure and folding of DNA and RNA hairpins. Anal Chem 327:70.
 Serra,M.J., Lyttle,M.H., Axenson,T.J., Schadt.C.A. and Turner,D.H. (1993) Nucleic Acids Res 21:3845-3849.
