@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib
 
 def MakeComplement(theSequence,isDNA):
     returnString=""

@@ -5,6 +5,7 @@ import csv
 import primer3
 ##import Pri3JU
 ##import Comple
+import matplotlib
 
 lines = [line.split() for line in open("excel.txt",'r')]
 Name=['FO','FI','FC','RC','RI','RO']

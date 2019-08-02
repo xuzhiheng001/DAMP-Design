@@ -1,3 +1,5 @@
+import matplotlib
+
 ##Output Number
 printNumber=50
 

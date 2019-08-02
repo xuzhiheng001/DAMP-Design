@@ -1,6 +1,7 @@
 from parameters import *
 import primer3
 import Comple
+import matplotlib
 
 def Hairpin(Sequence):
     TemResult=primer3.calcHairpin(Sequence)
